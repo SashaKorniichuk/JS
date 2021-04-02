@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@50&display=swap');
+.bg1
+{
+background-image: url(./icons/BG1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+li a
+{
+    font-family:"Montserrat";
+    margin-left: 15px;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 17px;
+color:#143F5F;
+}
+.text1
+{
+    font-family:"Montserrat";
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 61px;
+color: #0E9AFF;
+}
+.text2
+{
+    font-family:"Montserrat";
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 20px;
+color: #143F5F;
+}
+.search
+{
+    background-color: #0E9AFF;
+    color: white;
+}
+.search2
+{
+background: #FFFFFF;
+box-shadow: 0px 10px 50px rgba(14, 154, 255, 0.1);
+border-radius: 10px;
+
+}
+.marginLeft
+{
+    padding-left: 25%;
+}
+.text3
+{
+    font-family:"Montserrat";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #143F5F;
+}
+.text4
+{
+    font-family:"Montserrat";
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 17px;
+color: rgba(20, 63, 95, 0.5);
+}
+.bg2
+{
+     
+    background: #F3F4F5;
+}
+.text5
+{
+    font-family:"Montserrat";
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+color: #143F5F;
+}
+.text6
+{
+    font-family:"Montserrat";
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 29px;
+text-align: center;
+color: #143F5F;
+}
+.text7
+{
+    font-family:"Montserrat";
+font-style:normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+color: #143F5F;
+}
+.btnView
+{
+    width: 400px;
+height: 52px;
+color: white;
+background: #0E9AFF;
+border-radius: 10px;
+}
+.AdvantagesImg {
+    width: 150px;
+    height: 150px;
+    align-self:center;
+  }
+  .AdvantagesB
+  {
+    background: #FFFFFF;
+    border: 1px solid #F3F4F5;
+    box-shadow: 0px 10px 10px rgba(14, 154, 255, 0.05);
+    border-radius: 10px;
+  }
+  .bg3
+  {
+  
+    background: #F3F4F5;
+  }
+
+ 
+  .text8
+  {
+    font-family:"Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+     
+     padding: 20px;
+     width: 190px;
+     height: 68px;
+     background: #FFFFFF;
+    border: 1px solid #F3F4F5;
+    box-shadow: 0px 10px 10px rgba(14, 154, 255, 0.05);
+    border-radius: 10px;
+    text-align: center;
+  }
+  .AdvantagesB2
+  {
+      border: 0px;
+      background-color: inherit;
+  }
+
+  .bg4
+  {
+      background-image: url(./icons/BG2.jpg);
+      background-repeat: no-repeat;
+
+  }
+  .btnMember
+  {
+    width: 400px;
+    height: 52px;
+    color: white;
+    background: #10BD40;
+    border-radius: 10px;
+  }
+  .text9
+  {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 24px;
+    color: #FFFFFF;
+  }
+  .text10
+  {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 17px;
+    color: rgba(255, 255, 255, 0.75);
+    
+  }
+  

@@ -1,0 +1,377 @@
+[{
+        "id": 11,
+        "categoryId": 1,
+        "icon": 1,
+        "name": "BUILD BLACK - Public IOS App UX/UI",
+        "author": {
+            "name": "Balint Pataki",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian"],
+            "Bio": "I'm an architect. Looking for the best architecture around the world is my hobby",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 2545444,
+        "price": 100,
+        "currency": "usd",
+        "rating": 4,
+        "voted": 2,
+        "sales": 2,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience. The goal of user interface design is to make the user's interaction as simple and efficient as possible, in terms of accomplishing user goals (user-centered design).        Good user interface design facilitates finishing the task at hand without drawing unnecessary attention to itself.Graphic design and typography are utilized to support its usability,        influencing how the user performs certain interactions and improving the aesthetic appeal of the design;design aesthetics may enhance or detract from the ability of users to use the functions of the interface. [1] The design process must balance technical functionality and visual elements(e.g., mental model) to create a system that is not only operational but also usable and adaptable to changing user needs.",
+        "attachments": [
+            "att/1", "att/2", "att/3", "att/4"
+        ]
+    },
+    {
+        "id": 12,
+        "categoryId": 1,
+        "icon": 2,
+        "name": "Marketplace Android App UI/UX",
+        "author": {
+            "name": "Poberto Perruni",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 7878,
+        "price": 12,
+        "currency": "usd",
+        "rating": 4,
+        "voted": 9,
+        "sales": 5,
+        "reviews": [],
+        "time_deliv": 2,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/5", "att/6", "att/7", "att/8", "att/9"
+        ]
+    }, {
+        "id": 13,
+        "categoryId": 1,
+        "icon": 3,
+        "name": "Cryptocurrency - IOS/Android UI/UX",
+        "author": {
+            "name": "Aleksandr Willson",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 3345,
+        "price": 500,
+        "currency": "usd",
+        "rating": 5,
+        "voted": 11,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/10", "att/11"
+        ]
+    },
+    {
+        "id": 14,
+        "categoryId": 2,
+        "icon": 4,
+        "name": "Budd'it Dashboard UI/UX",
+        "author": {
+            "name": "Brett Cunnington",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 484,
+        "price": 228,
+        "currency": "usd",
+        "rating": 3.5,
+        "voted": 9,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    },
+    {
+        "id": 15,
+        "categoryId": 3,
+        "icon": 5,
+        "name": "HMI - Human-Machine Interface",
+        "author": {
+            "name": "Mauricio Moncario",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 544,
+        "price": 650,
+        "currency": "usd",
+        "rating": 4,
+        "voted": 2,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    },
+    {
+        "id": 16,
+        "categoryId": 3,
+        "icon": 6,
+        "name": "Cryptocurrency - IOS App Design",
+        "author": {
+            "name": "John Smirh",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 655,
+        "price": 192,
+        "currency": "usd",
+        "rating": 5,
+        "voted": 9,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    },
+    {
+        "id": 17,
+        "categoryId": 5,
+        "icon": 7,
+        "name": "Logistics advance Website UX design",
+        "author": {
+            "name": "Ronan Janson",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 4533,
+        "price": 872,
+        "currency": "usd",
+        "rating": 4,
+        "voted": 9,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    },
+    {
+        "id": 18,
+        "categoryId": 5,
+        "icon": 8,
+        "name": "Tradign app IOS",
+        "author": {
+            "name": "Ronan Janson",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 75675,
+        "price": 790,
+        "currency": "usd",
+        "rating": 5,
+        "voted": 20,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    },
+    {
+        "id": 19,
+        "categoryId": 10,
+        "icon": 9,
+        "name": "Tradign app IOS",
+        "author": {
+            "name": "Ronan Janson",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 75675,
+        "price": 790,
+        "currency": "usd",
+        "rating": 5,
+        "voted": 20,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    },
+    {
+        "id": 20,
+        "categoryId": 10,
+        "icon": 10,
+        "name": "Tradign app IOS",
+        "author": {
+            "name": "Ronan Janson",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 75675,
+        "price": 790,
+        "currency": "usd",
+        "rating": 5,
+        "voted": 20,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    },
+    {
+        "id": 23,
+        "categoryId": 8,
+        "icon": 11,
+        "name": "Tradign app IOS",
+        "author": {
+            "name": "Ronan Janson",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 75675,
+        "price": 790,
+        "currency": "usd",
+        "rating": 5,
+        "voted": 20,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    },
+    {
+        "id": 24,
+        "categoryId": 8,
+        "icon": 12,
+        "name": "Tradign app IOS",
+        "author": {
+            "name": " Janson Ronan",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 75675,
+        "price": 790,
+        "currency": "usd",
+        "rating": 5,
+        "voted": 20,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    },
+    {
+        "id": 25,
+        "categoryId": 9,
+        "icon": 6,
+        "name": "Lorem Ipsum",
+        "author": {
+            "name": "Ipsum Lorem",
+            "location": "Ukraine",
+            "Lang": ["Ukrainian", "English"],
+            "Bio": "Hello. I'm software developer, a person who writes computer programs",
+            "contacts": {
+                "fb": "fb.com",
+                "twitter": "twitter.com",
+                "pinterest": "pinterest.com"
+            }
+        },
+        "view": 100,
+        "price": 15,
+        "currency": "usd",
+        "rating": 2,
+        "voted": 4,
+        "sales": 155,
+        "reviews": [],
+        "time_deliv": 1,
+        "description": "The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, PCs and others, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store or Samsung Galaxy Store, or open source platforms like Aptoide or F-Droid.        Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2017, it has over two billion monthly active users, the largest installed base of any operating system, and as of March 2020, the Google Play Store features over 2.9 million apps.[15] The current stable version is Android 10, released on September 3, 2019.",
+        "attachments": [
+            "att/1", "att/11", "att/3"
+        ]
+    }
+]
