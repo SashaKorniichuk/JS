@@ -24,7 +24,12 @@
                 </a>                     
                 <ul class="navbar-nav pl-5">
                   <li class="nav-item">
-                    <a class="nav-link" onmouseover="Works()"  href="#">Works</a>
+                    <a class="nav-link" onmouseover="Works()" onmouseout="DeleteWorks()"  href="#">Works</a>
+                    <ul class="submenu block">
+                      <li id="work">
+                      </li>
+                  
+                  </ul>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#">Pricing</a>
@@ -63,22 +68,18 @@
                                 Millions of international works. Pay as you go.
                             </div>
                         </div>
-                        <div class="row mt-4 marginLeft">
-                                <div class=" col-8 mt-4 ml-2">
-                                    <div class="row">
-                                      <div class="search2 form-control d-block ">
-                                        <div style="float: left;">
-                                          <span class="text3">
-                                            I am looking for a
-                                          </span>
-                                          <span>
-                                            UI/UX Designer
-                                          </span>
-                                        </div>
-                                        <button style="float: right;" class="input-group-text fa fa-search search"></button> 
-
-                                      </div>
+                        <div class="row mt-4  d-flex justify-content-center">
+                                <div class=" col-8 mt-4  borders text-center pt-1 pb-1" >
+                                  <div class="input-group  border-0 ">
+                                    <label class="input-group-append text2 mt-2 border-0">
+                                      I am looking for
+                                    </label>
+                                    <input type="text" class="form-control  border-0" placeholder="UI/UX Designer" >
+                                    <div class="input-group-append ml-1 ">
+                                      <img src="./icons/searchButton.png" alt="">
                                     </div>
+                                  </div>
+                                   
                                   </div>
                         </div>
                         <div class="row text4 text-center mt-5">
@@ -112,12 +113,17 @@
         </div>
     </div>
     <div class="container-fluid">
-      <div class="container">
+      <div class="container ">
    <div class="row text-center">
 <div class="col-12 text7 mt-5">
   Latest proWorks
 </div>
    </div>
+    <div class="row  mt-2 mb-4 " id="all">
+      
+    </div>
+
+
    <div class="row text-center">
      <div class="col-12">
        <button class="btn btnView">View all proWorks</button>
@@ -186,7 +192,7 @@ Architecture    </label>
 Branding
     </label>
     <label class="text8">
-Fashion Designe
+Fashion Design
     </label>
     <label class="text8">
 Graphic Design
