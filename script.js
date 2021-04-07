@@ -1,19 +1,25 @@
 
 const url="https://raw.githubusercontent.com/SashaKorniichuk/JS/main/json/categories%20(1).json";
 const url2="https://raw.githubusercontent.com/SashaKorniichuk/JS/main/json/products.json";
-function Works()
+let categories=new Array();
+onload+=LoadCategories();
+function LoadCategories()
 {
-    let xhr = new XMLHttpRequest();
+     let xhr = new XMLHttpRequest();
     xhr.open("GET", url);
     
     xhr.send();
 
     xhr.onload = () => {
         let items = JSON.parse(xhr.response);
-        
-           initBlock(items.data);
-         console.log(items);
+        categories=items.data;
+         
     }
+}
+
+function Works()
+{
+    initBlock(categories);
 }
 function initBlock(data)
 {
@@ -69,32 +75,76 @@ function DeleteWorks()
     }
 }
 
-onload=function(){
+function DeleteCards()
+{ 
+    let li=document.querySelector("#all");
+    while(li.firstChild)
+    {
+        li.removeChild(li.firstChild);
+
+    }
+}
+
+function GetCards(filter){
+    DeleteCards();
+    let all= document.querySelector("#all");
     let xhr = new XMLHttpRequest();
     xhr.open("GET", url2);
     xhr.send();
     xhr.onload = () => {
         let items = JSON.parse(xhr.response);
-        
-           initCard(items.data);
-         console.log(items);
+        if(filter==-1)
+        {
+            initCard(items.data,items.data.length-1);
+        }      
+        else if(filter==0)
+        {
+            initCard(items.data,items.data.length);
+        }       
+        else
+        {
+            let itemFilters=new Array();
+            for(let index=0;index<items.data.length;index++)
+            {
+                if(items.data[index].categoryId==filter)
+                {
+                    itemFilters.push(items.data[index]);
+                }
+            }
+            if(itemFilters.length==0)
+            {
+              
+               all.classList.add("emptyImg");
+              let img=document.createElement("img");
+              img.src="./icons/EmptyResult.png";
+              all.appendChild(img);
+            }
+            else
+            {
+               all.classList.remove("emptyImg");
+                initCard(itemFilters,itemFilters.length);
+            }
+
+        }
+         
     }
 }
-
-function initCard(items)
+onload=GetCards(-1);
+function initCard(items,count)
 {
- items.length=items.length-1;
+ items.length=count;
    let cards=items.map(item=>{
        let div=document.createElement("div");
       // div.classList.add("card");
-       div.classList.add("col-xl-2");
-       div.classList.add("col-lg-2");
-       div.classList.add("col-md-5");
+      
+      div.addEventListener("click",function(){setinfo(item.id,item.categoryId)})
+       div.style.cursor="pointer";
+       div.classList.add("col-xl-3");
+       div.classList.add("col-lg-3");
+       div.classList.add("col-md-4");
        div.classList.add("col-sm-5");
        div.classList.add("p-1");
-       
-      
-
+       div.classList.add("text-left");
 
        let divFinaly=document.createElement("div");
        divFinaly.classList.add("cardBox");
@@ -204,4 +254,22 @@ function initCard(items)
    cards.forEach(element => {
     document.querySelector("#all").appendChild(element);
 });
+}
+
+function setinfo(ID,categoryId)
+{
+   document.location.href="./index3.html";
+    console.log(ID);
+    let obj={
+       Id:ID,
+       Category:categories[categoryId].name
+    }
+    console.log(obj.Category);
+    localStorage.setItem("obj",JSON.stringify(obj));
+}
+
+function LoadPage2()
+{
+    document.location.href="./index2.html";
+    GetCards(0);
 }
